@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["Alert","AlertLevel"],"mod":["functionalities","prelude"],"struct":["AircraftState","AlertState","Taws","TawsConfig"]};
